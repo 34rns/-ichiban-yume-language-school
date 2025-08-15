@@ -297,6 +297,7 @@ blockquote {
   right: 0;
   bottom: 0;
   z-index: 0;
+  display: none;
 }
 
 .tm-testimonials-carousel {
@@ -612,8 +613,15 @@ figure.effect-honey:hover h2 i {
   text-decoration: none;
 }
 
+
+
 p {
   line-height: 1.9;
+}
+
+
+.tm-container-contact {
+  margin-bottom: 40px;
 }
 
 @media (min-width: 768px) {
@@ -932,8 +940,11 @@ body {
   border-radius: 10px;
 }
 
-
 /* end 9:18 */
+
+
+
+
 
 
 
@@ -973,9 +984,3 @@ body {
 
 
 /* end 4:30  */
-
-
-
-
-
-
